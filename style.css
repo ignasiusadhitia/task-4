@@ -31,8 +31,16 @@ body {
   padding: 14px 32px;
 }
 
+.w-cstm {
+  width: 50%;
+}
+
 @media screen and (max-width: 768px) {
   .img-cstm {
+    width: 100%;
+  }
+
+  .w-cstm {
     width: 100%;
   }
 }
